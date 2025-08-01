@@ -1,0 +1,45 @@
+EKSPOR DARI DOKUMEN WORD
+=========================
+File sumber: testing.docx
+Tanggal ekspor: 31 Juli 2025
+Total kata: 3,918
+Total karakter: 30,068
+
+RINGKASAN:
+Dokumen ini adalah proposal skripsi tentang implementasi sistem watermarking 
+tak terlihat pada bahan ajar digital menggunakan kombinasi QR Code dan 
+steganografi citra dengan metode LSB.
+
+KONTEN LENGKAP:
+--------------------------------------------------
+   IMPLEMENTASI SISTEM WATERMARK‎‎‎‎ING TAK TERLIHAT PADA BAHAN AJAR DIGITAL MENGGUNAKAN KOMBINASI QR CODE‎ DAN STEGANOGRAFI CITRA (METODE LSB)
+
+
+PROPOSAL
+
+
+Diajukan sebagai Salah Satu Syarat untuk Mendapatkan 
+Gelar Sarjana Komputer (S.Kom) Program Studi Informatika
+
+
+
+
+
+
+
+ARIKAL KHAIRAT
+105841108421
+
+
+
+PROGRAM STUDI INFORMATIKA
+FAKULTAS TEKNIK
+UNIVERSITAS MUHAMMADIYAH MAKASSAR
+2025
+
+
+KATA PENGANTAR
+Assalamu’Alaikum Warahmatullahi Wabarakatuh
+Segala Puji bagi Allah SWT atas limpahan rahmat, kesehatan dan kekuatannya sehingga proposal skripsi dengan judul “IMPLEMENTASI SISTEM WATERMARK‎‎ING TAK TERLIHAT PADA BAHAN AJAR DIGITAL MENGGUNAKAN KOMBINASI QR CODE‎ DAN STEGANOGRAFI (METODE LSB)” ini dapat penulis selesaikan sebagaimana salah satu syarat untuk penyusunan Skripsi Program Studi Informatika. Shalawat dan junjungan Nabi Besar Muhammad SAW sebagai uswatun hasanah dan rahmatan lil alamin.
+Dengan segala kerendahan hati, penulis menyampaikan rasa terima kasih yang sebesar-besarnya kepa...
+[KONTEN DIPOTONG - Total 30,068 karakter]
